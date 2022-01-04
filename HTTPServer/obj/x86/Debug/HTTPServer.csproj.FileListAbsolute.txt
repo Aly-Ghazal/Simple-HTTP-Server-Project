@@ -1,0 +1,9 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\computer science\4TH Grade\First Term\Network\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+E:\computer science\4TH Grade\First Term\Network\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\computer science\4TH Grade\First Term\Network\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
+E:\computer science\4TH Grade\First Term\Network\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\computer science\4TH Grade\First Term\Network\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb

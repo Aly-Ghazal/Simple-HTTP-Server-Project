@@ -1,0 +1,4 @@
+Datetime: 2021-12-30 10:34:26 AM
+message: favicon.ico Dosen't exist
+
+cibly closed by the remote host
